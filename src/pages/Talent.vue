@@ -17,12 +17,11 @@
             <div class="row box">
                 <div class="col-md-7 col-sm-7 col-xs-12">
                     <div class="text-herotalent">
-                        Cultivate your technical skill for production
+                        Cultivate your technical skills on a
+                        production level<br>
                     </div>
                      <div class="text-herocaption text-white q-py-md">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-                        Aliquet suspendisse sit nulla urna, accumsan egestas<br>
-                        eleifend hendrerit facilisi. Hac dolor ante.
+                        upscalling stuff<br>
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-8 picture-mobile">
@@ -40,9 +39,8 @@
                 </div>
                 <div class="col-md-5 col-xs-7">
                     <div class="text-herocaption text-white">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Aliquet suspendisse sit nulla urna, accumsan egestas
-                        eleifend hendrerit facilisi. Hac dolor ante.
+                        A community driven environment that provides<br>
+                        gateway towards industrial level skill set<br>
                     </div>
                 </div>
             </div>
@@ -66,7 +64,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-8">
                     <div>
-                        <q-img class="q-ma-xl" src="../assets/dc/iqbal.png"></q-img>
+                        <q-img class="q-ma-xl" src="../assets/dc/iqbal3.png"></q-img>
                     </div>
                 </div>
             </div>
@@ -88,7 +86,7 @@
                      <div class="k-caption">Project</div>
                 </div>
                 <div class="col-12 text-center">
-                <q-btn color="purple" class="box-button">Join Our Community</q-btn>
+                <q-btn color="purple" class="box-button" type="a" href="https://discord.gg/3N6ghtSw" target="_blank">Join Our Community</q-btn>
                 </div>
             </div>
          </div>

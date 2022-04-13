@@ -20,9 +20,9 @@
                         Production Ready<br>Developers For You
                     </div>
                      <div class="text-herocaption text-white q-pt-md">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Aliquet suspendisse sit nulla urna, accumsan egestas
-                        eleifend hendrerit facilisi. Hac dolor ante.
+                        Developers & Programmers with skills similar<br>
+                        to 2 - 3 years of experience in the industry standard<br>
+                        available to be assigned
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5 col-xs-8 picture-mobile">
@@ -37,17 +37,17 @@
                 <div class="col-12 flex flex-center">
                     <q-card class="col-md-3 col-xs-5 problem-card" :class="{hover}"
                     @mouseover="hover = true" @mouseleave="hover = false">
-                        Iqbal Baharum, tech<br>expert with a<br>background of more<br>than 10-years in the<br>Tech & Software<br>Industries.
+                        The Difficulty to<br>find programmers<br>and developers<br>that suits the needs<br>of the company<br>
                     </q-card>
                     <q-card class="col-md-3 col-xs-5 problem-card">
-                        Iqbal Baharum, tech<br>expert with a<br>background of more<br>than 10-years in the<br>Tech & Software<br>Industries.
+                        Retention rate of a<br>developer doesn't<br>exceed more than<br>6 months of<br>initial employment<br>
                     </q-card>
                     <q-card class="col-md-3 col-xs-5 problem-card">
-                        Iqbal Baharum, tech<br>expert with a<br>background of more<br>than 10-years in the<br>Tech & Software<br>Industries.
+                        The level of<br>technical undestanding<br>of the developers are<br>not up to par with<br>industry standard
                     </q-card>
-                    <q-card class="col-md-3 col-xs-5 problem-card">
+                    <!-- <q-card class="col-md-3 col-xs-5 problem-card">
                         Iqbal Baharum, tech<br>expert with a<br>background of more<br>than 10-years in the<br>Tech & Software<br>Industries.
-                    </q-card>
+                    </q-card> !-->
                 </div>
             </div>
         </div>
@@ -56,7 +56,7 @@
             <div class="row box">
                 <div class="col-md-7 col-sm-10 col-xs-10" style="padding: 8% 20% 5% 0">
                     <div class="text-rufina q-pb-lg">
-                    We provide two (2) options for you to fix your problem.
+                    Our approach ideology to mitigate the issues.
                     </div>
 
                     <div class="q-pb-md">
@@ -65,15 +65,15 @@
                         expand-separator
                         expand-icon="add"
                         expand-icon-class="small-icon"
-                        label="Hire a skilled part-timer"
+                        label="Full-Timer Hiring"
                         header-class="text-option"
                         class="option-set"
                         style="border-top: white solid 1px;"
                         >
                             <q-card-section class="text-option2" style="border-top: white solid 1px; padding: 2% 5%; 2% 0%">
-                                Click on the plus button icon above to add desired ticket amount, it will
-                                automatically be added to the cart and you may just proceed to checkout once
-                                you’re done.
+                                You can opt to hire our alumni/talent for your project or development.
+                                The talents will adhere to standard working hours in full time hiring
+                                and full time hiring contract will have a 3 months minimum contract duration.
                             </q-card-section>
                         </q-expansion-item>
 
@@ -82,22 +82,22 @@
                         expand-separator
                         expand-icon="add"
                         expand-icon-class="small-icon"
-                        label="Hire a skilled full-timer"
+                        label="Part-Timer or Task Based Hiring"
                         header-class="text-option "
                         class=""
                         style="border-top: white solid 1px; border-bottom: white solid 1px;"
                         >
                             <q-card-section class="text-option2" style="border-top: white solid 1px; padding: 2% 5%; 2% 0%">
-                                Click on the plus button icon above to add desired ticket amount, it will
-                                automatically be added to the cart and you may just proceed to checkout once
-                                you’re done.
+                                Clients and Partners can also opt for part-time or task based
+                                hiring if the service of a developer is only needed for a certain task
+                                or job. This would also save up cost in the long run.
                             </q-card-section>
                         </q-expansion-item>
                     </div>
                 </div>
 
                 <div class="col-md-5 col-sm-7 col-xs-7 picture-mobile" style="padding: 3% 0 3% 0">
-                    <q-img src="~assets/dc/pc.svg"></q-img>
+                    <q-img src="~assets/dc/hiring3.png"></q-img>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@
         <div class="bg-none">
             <div class="row">
                 <div class="col-md-3 col-xs-12 text-rufina" style="background: #777777;  padding: 6% 4% 6% 4%;">
-                    How the partnership works
+                    How does the partnership works
                 </div>
                 <div class="col-md-3 col-xs-4 partner-card" style="background: #C4C4C4">
                     <div class="text-solution">STEP 1</div>
